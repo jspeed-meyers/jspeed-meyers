@@ -2,6 +2,10 @@
 
 - 🔭 I’m currently head of Chainguard Labs and developer relations at [Chainguard](https://www.chainguard.dev/), a software supply chain security startup. Our mission is to make the world's software supply chain secure by default.
 
+- 🌱 I’m currently learning about container security (why do office Docker Hub containers tend to have so many vulnerabilities?) and ... TBD
+
+- ⚡ Fun fact: ...
+
 <!--
 **jspeed-meyers/jspeed-meyers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
