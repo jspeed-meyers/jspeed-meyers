@@ -1,8 +1,8 @@
 ### Hiya there :bowtie:
 
-- 🔭 I’m currently head of Chainguard Labs at [Chainguard](https://www.chainguard.dev/), a software supply chain security startup. Our mission is to make the world's software supply chain secure by default.
+- 🔭 I’m currently head of Chainguard Labs at [Chainguard](https://www.chainguard.dev/). Our mission is to make Chainguard the safe source for open source.
 
-- 🌱 I’m currently learning about containers and software vulnerabilities (👋 [Chainguard Images](https://github.com/chainguard-images)), linux distros and patching patterns (👋 [Wolfi](https://github.com/wolfi-dev/)), SBOMs (👋 [bom-squad](https://github.com/bom-squad)), and VEX (👋 [OpenVEX](https://github.com/openvex)).
+- 🌱 I’m currently learning about containers and software vulnerabilities (👋 [Chainguard Images](https://github.com/chainguard-images)) and linux distros and patching patterns (👋 [Wolfi](https://github.com/wolfi-dev/)).
 
 - 👯 I’m always looking to collaborate on writings about open source software, computer security, software engineering, public policy, and other topics. Examples include ["Should Uncle Sam Worry about Foreign Open Source Software?"](https://www.lawfaremedia.org/article/should-uncle-sam-worry-about-foreign-open-source-software-geographic-known-unknowns-and-open-source) or ["Dependency Issues: Solving the World's Open Source Software Security Problem"](https://warontherocks.com/2022/05/dependency-issues-solving-the-worlds-open-source-software-security-problem/).
 
