@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently a member of the Chief Strategy Officer team at [Chainguard](https://www.chainguard.dev/). Our mission is to be the safe source for open source.
 
-- 🌱 I’m currently learning about containers and software vulnerabilities (👋 [Chainguard Images](https://github.com/chainguard-images)) and linux distros and patching patterns (👋 [Wolfi](https://github.com/wolfi-dev/)).
+- 🌱 I’m currently learning about containers and software vulnerabilities (👋 [Chainguard Containers](https://github.com/chainguard-images)) and linux distros and patching patterns (👋 [Wolfi](https://github.com/wolfi-dev/)).
 
 - 👯 I’m always looking to collaborate on writings about open source software, computer security, software engineering, public policy, and other topics. Examples include ["Should Uncle Sam Worry about Foreign Open Source Software?"](https://www.lawfaremedia.org/article/should-uncle-sam-worry-about-foreign-open-source-software-geographic-known-unknowns-and-open-source) or ["Dependency Issues: Solving the World's Open Source Software Security Problem"](https://warontherocks.com/2022/05/dependency-issues-solving-the-worlds-open-source-software-security-problem/).
 
