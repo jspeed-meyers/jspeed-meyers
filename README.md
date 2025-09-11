@@ -1,6 +1,6 @@
 ### Hiya there :bowtie:
 
-- 🔭 I’m currently the chief of staff to the head of product at [Chainguard](https://www.chainguard.dev/). Our mission is to make Chainguard the safe source for open source.
+- 🔭 I’m currently a member of the Chief Strategy Officer team at [Chainguard](https://www.chainguard.dev/). Our mission is to be the safe source for open source.
 
 - 🌱 I’m currently learning about containers and software vulnerabilities (👋 [Chainguard Images](https://github.com/chainguard-images)) and linux distros and patching patterns (👋 [Wolfi](https://github.com/wolfi-dev/)).
 
