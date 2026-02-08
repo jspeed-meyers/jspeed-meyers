@@ -1,6 +1,6 @@
 ### Hiya there :bowtie:
 
-- 🔭 I’m currently the Vice President of R&D at [Edera](https://www.chainguard.dev/). Our mission is to make secure computing simple.
+- 🔭 I’m currently the Vice President of R&D at [Edera](https://www.edera.dev/). Our mission is to make secure computing simple.
 
 - 👯 I’m always looking to collaborate on writings about open source software, computer security, software engineering, public policy, and other topics. Examples include ["Should Uncle Sam Worry about Foreign Open Source Software?"](https://www.lawfaremedia.org/article/should-uncle-sam-worry-about-foreign-open-source-software-geographic-known-unknowns-and-open-source) or ["Dependency Issues: Solving the World's Open Source Software Security Problem"](https://warontherocks.com/2022/05/dependency-issues-solving-the-worlds-open-source-software-security-problem/).
 
